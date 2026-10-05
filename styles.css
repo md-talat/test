@@ -119,8 +119,7 @@ header {
     font-size: 1rem;
 }
 
-.form-itmes input,
-.form-itmes textarea {
+.form-itmes input, .form-itmes textarea {
     flex: 1;
     padding: 0.8rem 1rem;
     border: 1px solid rgba(255, 255, 255, 0.3);
